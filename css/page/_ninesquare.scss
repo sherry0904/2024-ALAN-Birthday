@@ -2,8 +2,6 @@
 
 .ninesquare {
     &>.bg {
-        left: 35%;
-        width: 163em;
         filter: brightness(0.4) blur(0.1em);
     }
     .section__container {
@@ -28,7 +26,7 @@
         margin: 1%;
         background-color: rgba(135, 135, 135, 0.3);
         border-radius: 0.5em;
-        border: 0.3em solid #70ccd9;
+        border: 0.3em solid #e791c5;
         -ms-touch-action: none; /* IE10 */
         touch-action: none;  
         &::before {

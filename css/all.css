@@ -12629,7 +12629,7 @@ textarea.form-control-lg {
 .button-red .button__text p {
   font-family: "Noto Sans TC", "Noto Serif TC", "Open Sans", sans-serif;
   color: #ffffff;
-  text-shadow: 0 0 0.1em rgba(244, 143, 193, 0.85), 0 0 0.2em rgba(244, 143, 193, 0.85);
+  text-shadow: 0 0 0.1em rgba(255, 0, 126, 0.85), 0 0 0.2em rgba(255, 0, 126, 0.85);
 }
 .button-multext p {
   line-height: 1.4;
@@ -12757,6 +12757,15 @@ textarea.form-control-lg {
 .modal__body {
   margin-bottom: 2em;
 }
+.modal__body-3 p, .modal__body-3 a {
+  display: inline-block;
+  font-size: 3em;
+  text-align: center;
+}
+.modal__body-3 a {
+  color: #fff;
+  text-decoration: underline;
+}
 .modal__body-6 .modal__detail__img {
   width: 40em;
 }
@@ -12765,7 +12774,8 @@ textarea.form-control-lg {
   width: 10em;
 }
 .modal__body-9 .modal__detail p, .modal__body-9 .modal__detail a {
-  font-size: 5em;
+  display: inline-block;
+  font-size: 3em;
   text-align: center;
 }
 .modal__body-9 .modal__detail a {
@@ -13163,7 +13173,7 @@ html, body {
 
 .landing > .bg {
   top: 50%;
-  filter: brightness(0.4) blur(0.1em);
+  filter: brightness(0.6) blur(0em);
 }
 .landing__title {
   position: absolute;
@@ -13183,7 +13193,8 @@ html, body {
   text-align: center;
   font-family: "Cubic", "Noto Sans TC", "Noto Serif TC", "Open Sans", sans-serif;
   color: #ffffff;
-  text-shadow: 0 0 0.1em rgba(93, 180, 224, 0.85), 0 0 0.2em rgba(93, 180, 224, 0.85);
+  text-shadow: 0 0 0.1em rgba(255, 0, 126, 0.85), 0 0 0.2em rgba(255, 0, 126, 0.85);
+  font-family: "Noto Sans TC", "Noto Serif TC", "Open Sans", sans-serif;
 }
 .landing__intro {
   position: absolute;
@@ -13195,7 +13206,8 @@ html, body {
 .landing__intro p {
   font-family: "Cubic", "Noto Sans TC", "Noto Serif TC", "Open Sans", sans-serif;
   color: #ffffff;
-  text-shadow: 0 0 0.1em rgba(93, 180, 224, 0.85), 0 0 0.2em rgba(93, 180, 224, 0.85);
+  text-shadow: 0 0 0.1em rgba(255, 0, 126, 0.85), 0 0 0.2em rgba(255, 0, 126, 0.85);
+  font-family: "Noto Sans TC", "Noto Serif TC", "Open Sans", sans-serif;
   text-align: center;
   margin-bottom: 0;
   font-size: 2.5em;
@@ -13252,7 +13264,9 @@ html, body {
 
 @media (max-width: 992px) {
   .landing > .bg {
-    top: 48%;
+    top: -10%;
+    left: -24%;
+    transform: scale(1.5);
   }
   .landing__arrow {
     left: 50.5%;
@@ -13260,8 +13274,6 @@ html, body {
   }
 }
 .ninesquare > .bg {
-  left: 35%;
-  width: 163em;
   filter: brightness(0.4) blur(0.1em);
 }
 .ninesquare .section__container {
@@ -13286,7 +13298,7 @@ html, body {
   margin: 1%;
   background-color: rgba(135, 135, 135, 0.3);
   border-radius: 0.5em;
-  border: 0.3em solid #70ccd9;
+  border: 0.3em solid #e791c5;
   -ms-touch-action: none; /* IE10 */
   touch-action: none;
 }
@@ -13350,7 +13362,10 @@ html, body {
 }
 
 .challenge .bg {
-  filter: blur(0.1em) brightness(0.4);
+  filter: blur(0.1em) brightness(0.3);
+  left: 44%;
+  top: 49%;
+  width: 113%;
 }
 .challenge .section__container {
   display: flex;
@@ -13505,5 +13520,5 @@ html, body {
   font-size: 15em;
   font-family: "Noto Sans TC", "Noto Serif TC", "Open Sans", sans-serif;
   color: #ffffff;
-  text-shadow: 0 0 0.1em rgba(244, 143, 193, 0.85), 0 0 0.2em rgba(244, 143, 193, 0.85);
+  text-shadow: 0 0 0.1em rgba(255, 0, 126, 0.85), 0 0 0.2em rgba(255, 0, 126, 0.85);
 }/*# sourceMappingURL=all.css.map */

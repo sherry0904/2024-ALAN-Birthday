@@ -78,6 +78,17 @@
     }
     &__body {
         margin-bottom: 2em;
+        &-3 {
+            p, a {
+                display: inline-block;
+                font-size: 3em;
+                text-align: center;
+            }
+            a {
+                color: #fff;
+                text-decoration: underline;
+            }
+        }
         &-6 {
             .modal__detail__img {
                 width: 40em;
@@ -92,7 +103,8 @@
         &-9 {
             .modal__detail {
                 p, a {
-                    font-size: 5em;
+                    display: inline-block;
+                    font-size: 3em;
                     text-align: center;
                 }
                 a {
