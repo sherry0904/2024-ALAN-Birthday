@@ -54,8 +54,8 @@
         "tag": "Dancing<br>Queen",
         "ques": "請問這是阿嵐編的哪一首歌的舞蹈？<br></video><video controls muted defaultMuted playsinline><source src='./images/section/game/ques-8.mp4' type='video/mp4'></video>",
         "answers": [
-            "A. LE SSERAFIM - ANTIFRAGILE", 
-            "B. Jessi - ZOOM", 
+            "A. Jessi - ZOOM", 
+            "B. LE SSERAFIM - ANTIFRAGILE", 
             "C. Ariana Grande - bloodline", 
             "D. JISOO - FLOWER"
         ],
@@ -65,25 +65,28 @@
     },
     {
         "id": 4,
-        "tag": "沙威瑪<br>饕客",
-        "ques": "沙威瑪是來自土耳其，請問在土耳其「沙威瑪」是什麼意思？",
+        "tag": "台中<br>囝仔",
+        "ques": "以下台中行政區由北至南排列，何者正確？",
         "answers": [
-            "A. 烤肉", "B. 轉動", "C. 交疊", "D. 碎肉"
+            "A. 神岡區 -> 潭子區 -> 西屯區 -> 太平區", 
+            "B. 清水區 -> 后里區 -> 大雅區 -> 烏日區", 
+            "C. 梧棲區 -> 豐原區 -> 石崗區 -> 霧峰區", 
+            "D. 大甲區 -> 清水區 -> 外埔區 -> 大安區"
         ],
-        "answerscol": 2,
-        "correct": "轉動",
+        "answerscol": 1,
+        "correct": "神岡區 -> 潭子區 -> 西屯區 -> 太平區",
         "detail": "<div class='modal__detail__img'><img src='./images/section/game/detail-4.jpg'></div>"
     },
     {
         "id": 3,
-        "tag": "成為<br>海賊王",
-        "ques": "魯夫是什麼星座的呢？",
+        "tag": "雙魚座<br>專家",
+        "ques": "台中教育局的某次星座排行榜投票中雙魚座是哪個票數排名第一",
         "answers": [
-            "A. 射手座", "B. 牡羊座", "C. 摩羯座", "D. 金牛座"
+            "A. 得失心最重", "B. 最悲觀", "C. 最沒安全感", "D. 最易犯桃花"
         ],
         "answerscol": 2,
-        "correct": "金牛座",
-        "detail": "<div class='modal__detail__img'><img src='./images/section/game/detail-3.jpg'></div>"
+        "correct": "最沒安全感",
+        "detail": "<a href='https://tweb.ctas.tc.edu.tw/nature/ckj_class/article/130.htm' targer='_blank'>詳見此</a>"
     },
     {
         "id": 7,
@@ -101,16 +104,16 @@
     },
     {
         "id": 9,
-        "tag": "女友<br>知識大全",
-        "ques": "請問女友的洗澡順序為何？",
+        "tag": "英格利許<br>難波萬",
+        "ques": "'Winni'是阿嵐的英文名字，請問在英文中'Winni'有什麼寓意呢",
         "answers": [
-            "A. 洗臉 -> 洗身體 -> 洗頭 -> 洗內衣", 
-            "B. 洗頭 -> 洗身體 -> 洗臉 -> 洗內衣", 
-            "C. 洗內衣 -> 洗臉 -> 洗身體 -> 洗頭", 
-            "D. 洗內衣 -> 洗頭 -> 洗身體 -> 洗臉"
+            "A. 愛與美的女神", 
+            "B. 嬌小玲瓏的人", 
+            "C. 有冒險精神的女孩", 
+            "D. 和善的朋友"
         ],
-        "answerscol": 1,
-        "correct": "洗內衣 -> 洗頭 -> 洗身體 -> 洗臉",
-        "detail": "<p>答案就在你身邊</p>"
+        "answerscol": 2,
+        "correct": "和善的朋友",
+        "detail": "<a href='https://tw.amazingtalker.com/blog/zh-tw/zh-eng/3696/' targer='_blank'>詳見此</a>"
     }
 ]
