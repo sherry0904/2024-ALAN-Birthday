@@ -36,18 +36,18 @@
         "detail": "<div class='modal__detail__img'><img src='./images/section/game/detail-2.jpg'></div>"
     },
     {
-        "id": 6,
-        "tag": "五月天<br>宇宙",
-        "ques": "以下為「諾亞方舟」的歌詞空格處的歌詞是什麼？<br><span class='small'>晚安 鸚鵡和孔雀　　花豹和人類 望著海面<br>晚安 ____________ 　　沉浮在浪間 就像詩篇<span>",
+        "id": 9,
+        "tag": "英格利許<br>難波萬",
+        "ques": "'Winni'是阿嵐的英文名字，請問在英文中'Winni'有什麼寓意呢",
         "answers": [
-            "A. 回憶與紀念", 
-            "B. 照片與音樂", 
-            "C. 底片和唱片", 
-            "D. 海苔與仙貝"
+            "A. 愛與美的女神", 
+            "B. 嬌小玲瓏的人", 
+            "C. 有冒險精神的女孩", 
+            "D. 和善的朋友"
         ],
-        "answerscol": 1,
-        "correct": "底片和唱片",
-        "detail": "<div class='modal__detail__img'><img src='./images/section/game/detail-6.jpg'></div>"
+        "answerscol": 2,
+        "correct": "和善的朋友",
+        "detail": "<a href='https://tw.amazingtalker.com/blog/zh-tw/zh-eng/3696/' targer='_blank'>詳見此</a>"
     },
     {
         "id": 8,
@@ -103,17 +103,17 @@
         "detail": "<div class='modal__detail__img'><img src='./images/section/game/detail-7.jpg'></div>"
     },
     {
-        "id": 9,
-        "tag": "英格利許<br>難波萬",
-        "ques": "'Winni'是阿嵐的英文名字，請問在英文中'Winni'有什麼寓意呢",
+        "id": 6,
+        "tag": "五月天<br>宇宙",
+        "ques": "以下為「諾亞方舟」的歌詞空格處的歌詞是什麼？<br><span class='small'>晚安 鸚鵡和孔雀　　花豹和人類 望著海面<br>晚安 ____________ 　　沉浮在浪間 就像詩篇<span>",
         "answers": [
-            "A. 愛與美的女神", 
-            "B. 嬌小玲瓏的人", 
-            "C. 有冒險精神的女孩", 
-            "D. 和善的朋友"
+            "A. 回憶與紀念", 
+            "B. 照片與音樂", 
+            "C. 底片和唱片", 
+            "D. 海苔與仙貝"
         ],
-        "answerscol": 2,
-        "correct": "和善的朋友",
-        "detail": "<a href='https://tw.amazingtalker.com/blog/zh-tw/zh-eng/3696/' targer='_blank'>詳見此</a>"
+        "answerscol": 1,
+        "correct": "底片和唱片",
+        "detail": "<div class='modal__detail__img'><img src='./images/section/game/detail-6.jpg'></div>"
     }
 ]
