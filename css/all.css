@@ -12764,9 +12764,13 @@ textarea.form-control-lg {
   margin-top: 1em;
   width: 10em;
 }
-.modal__body-9 .modal__detail p {
+.modal__body-9 .modal__detail p, .modal__body-9 .modal__detail a {
   font-size: 5em;
   text-align: center;
+}
+.modal__body-9 .modal__detail a {
+  color: #fff;
+  text-decoration: underline;
 }
 .modal__title {
   margin-bottom: 2em;

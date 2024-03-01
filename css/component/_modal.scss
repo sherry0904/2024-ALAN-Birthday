@@ -91,9 +91,13 @@
         }
         &-9 {
             .modal__detail {
-                p {
+                p, a {
                     font-size: 5em;
                     text-align: center;
+                }
+                a {
+                    color: #fff;
+                    text-decoration: underline;
                 }
             }
         }
