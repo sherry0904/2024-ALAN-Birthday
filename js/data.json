@@ -52,7 +52,7 @@
     {
         "id": 8,
         "tag": "Dancing<br>Queen",
-        "ques": "請問這是阿嵐編的哪一首歌的舞蹈？<br></video><video controls muted><source src='./images/section/game/ques-8.mp4' type='video/mp4'></video>",
+        "ques": "請問這是阿嵐編的哪一首歌的舞蹈？<br></video><video controls muted defaultMuted playsinline><source src='./images/section/game/ques-8.mp4' type='video/mp4'></video>",
         "answers": [
             "A. LE SSERAFIM - ANTIFRAGILE", 
             "B. Jessi - ZOOM", 
