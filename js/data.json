@@ -1,0 +1,116 @@
+[
+    {
+        "id": 5,
+        "tag": "我要<br>當老師",
+        "ques": "《麻辣鮮師》是臺灣電視史第一部校園生活喜劇，亦為臺灣播出時間最長和集數最多的校園生活喜劇，其劇名靈感來自哪部日本漫畫？",
+        "answers": [
+            "A. 麻辣教師GTO", 
+            "B. 極道鮮師", 
+            "C. 靈媒教師神眉", 
+            "D. 家庭教師"
+        ],
+        "answerscol": 2,
+        "correct": "麻辣教師GTO",
+        "detail": "<div class='modal__detail__img'><img src='./images/section/game/detail-5.jpg'></div>"
+    },
+    {
+        "id": 1,
+        "tag": "內向人<br>代表",
+        "ques": "請問2021年網路統計最讓內向者困擾焦慮的第一名是哪個時刻？",
+        "answers": [
+            "A. 參加團康聯誼", "B. 上台報告提案", "C. 到櫃檯點餐結帳", "D. 尾牙才藝表演"
+        ],
+        "answerscol": 1,
+        "correct": "上台報告提案",
+        "detail": "<div class='modal__detail__img'><img src='./images/section/game/detail-1.jpg'></div>"
+    },
+    {
+        "id": 2,
+        "tag": "美食<br>特派員",
+        "ques": "以下哪間牛排館有榮獲2023米其林?",
+        "answers": [
+            "A. 莫爾頓", "B. 史密斯華倫斯基", "C. N°168 PRIME", "D. A Cut"
+        ],
+        "answerscol": 2,
+        "correct": "A Cut",
+        "detail": "<div class='modal__detail__img'><img src='./images/section/game/detail-2.jpg'></div>"
+    },
+    {
+        "id": 6,
+        "tag": "五月天<br>宇宙",
+        "ques": "以下為「諾亞方舟」的歌詞空格處的歌詞是什麼？<br><span class='small'>晚安 鸚鵡和孔雀<br>花豹和人類 望著海面<br>晚安 ____________ <br>沉浮在浪間 就像詩篇<span>",
+        "answers": [
+            "A. 回憶與紀念", 
+            "B. 照片與音樂", 
+            "C. 底片和唱片", 
+            "D. 海苔與仙貝"
+        ],
+        "answerscol": 1,
+        "correct": "底片和唱片",
+        "detail": "<div class='modal__detail__img'><img src='./images/section/game/detail-6.jpg'></div>"
+    },
+    {
+        "id": 8,
+        "tag": "Dancing<br>Queen",
+        "ques": "請問這是阿嵐編的哪一首歌的舞蹈？<br><video src='./images/section/game/ques-8.mp4' muted></video>",
+        "answers": [
+            "A. LE SSERAFIM - ANTIFRAGILE", 
+            "B. Jessi - ZOOM", 
+            "C. Ariana Grande - bloodline", 
+            "D. JISOO - FLOWER"
+        ],
+        "answerscol": 1,
+        "correct": "LE SSERAFIM - ANTIFRAGILE",
+        "detail": "詳見本人IG影片"
+    },
+    {
+        "id": 4,
+        "tag": "沙威瑪<br>饕客",
+        "ques": "沙威瑪是來自土耳其，請問在土耳其「沙威瑪」是什麼意思？",
+        "answers": [
+            "A. 烤肉", "B. 轉動", "C. 交疊", "D. 碎肉"
+        ],
+        "answerscol": 2,
+        "correct": "轉動",
+        "detail": "<div class='modal__detail__img'><img src='./images/section/game/detail-4.jpg'></div>"
+    },
+    {
+        "id": 3,
+        "tag": "成為<br>海賊王",
+        "ques": "魯夫是什麼星座的呢？",
+        "answers": [
+            "A. 射手座", "B. 牡羊座", "C. 摩羯座", "D. 金牛座"
+        ],
+        "answerscol": 2,
+        "correct": "金牛座",
+        "detail": "<div class='modal__detail__img'><img src='./images/section/game/detail-3.jpg'></div>"
+    },
+    {
+        "id": 7,
+        "tag": "資深<br>租屋族",
+        "ques": "請問若租屋處要提前解約最晚需於多久前提前告知？",
+        "answers": [
+            "A. 一個禮拜前", 
+            "B. 一個月以前", 
+            "C. 三個月以前", 
+            "D. 六個月以前"
+        ],
+        "answerscol": 2,
+        "correct": "一個月以前",
+        "detail": "<div class='modal__detail__img'><img src='./images/section/game/detail-7.jpg'></div>"
+    },
+    {
+        "id": 9,
+        "tag": "女友<br>知識大全",
+        "ques": "請問女友的洗澡順序為何？",
+        "answers": [
+            "A. 洗臉 -> 洗身體 -> 洗頭 -> 洗內衣", 
+            "B. 洗頭 -> 洗身體 -> 洗臉 -> 洗內衣", 
+            "C. 洗內衣 -> 洗臉 -> 洗身體 -> 洗頭", 
+            "D. 洗內衣 -> 洗頭 -> 洗身體 -> 洗臉"
+        ],
+        "answerscol": 1,
+        "correct": "洗內衣 -> 洗頭 -> 洗身體 -> 洗臉",
+        "detail": "<p>答案就在你身邊</p>"
+    }
+]
