@@ -13379,6 +13379,12 @@ html, body {
   margin: 0 auto;
   margin-top: 1em;
 }
+.challenge__ques video {
+  display: block;
+  width: 8em;
+  margin: 0 auto;
+  margin-top: 1em;
+}
 .challenge__ques-6 {
   margin-bottom: 3em;
 }
@@ -13446,6 +13452,9 @@ html, body {
   width: 46%;
   margin-right: 4%;
   margin-bottom: 3em;
+}
+.challenge__answers-8 {
+  width: 95em;
 }
 .challenge__buttons {
   display: flex;
